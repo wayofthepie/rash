@@ -5,7 +5,7 @@ A bash http server.
 To launch the server just run:
 
 ```
-$ ./rash.sh server
+$ ./rash.sh serve
 ```
 
 And now curl it:
